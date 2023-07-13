@@ -192,9 +192,6 @@ If you prefer configuring the build yourself, [follow this guide](https://reactj
 Looking for something similar, but for React Native?<br>
 Check out [Expo CLI](https://github.com/expo/expo-cli).
 
-## Contributing
-
-We'd love to have your helping hand on `create-react-app`! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
 
 ## Supporting Create React App
 
